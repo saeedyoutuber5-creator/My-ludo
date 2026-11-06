@@ -1,0 +1,6 @@
+{
+  "name": "My Ludo",
+  "description": "Play My Ludo with offline multiplayer and smart AI bots. Smooth animations, authentic rules, 3D dice rolls, and classic board game fun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
